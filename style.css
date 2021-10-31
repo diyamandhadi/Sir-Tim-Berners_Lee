@@ -1,0 +1,103 @@
+body {
+    margin: 0;
+    padding-top: 30px;
+     background: linear-gradient(#fad2c3 0%, #dcf6fc 100%);
+}
+
+.profile{
+    width:
+}
+#welcome {
+    position: absolute
+    overflow: hidden;
+    height: 800px;
+    color:#FFFFFF;
+    left: 0;
+    top: 0;
+    bottom: 0; 
+    right: 0;
+    opacity: 0.83;
+    background: linear-gradient(#fad2c3 0%, #dcf6fc 100%);
+    display: table;
+    height: 800px;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+
+h1{
+    
+font-size: 40px
+line-height: 1.2;
+font-family:cursive;
+    font-weight: 300;
+}
+
+h2{
+    font-family:fantasy;
+}
+
+h3{
+    font-family:cursive;
+}
+
+.menu {
+    font-family: sans-serif;
+    position:absolute;
+    top: 10px;
+    right:30px;
+    cursor:pointer;
+    z-index:10;
+    list-style:none;
+}
+p{
+    padding-left: 100px;
+        padding-right: 100px;
+}
+.links{
+    float: left;
+    color: darksalmon;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family:fantasy;
+    font-size:20px;
+}
+
+.links:hover{
+    background-color:coral;
+}
+
+img{
+    margin-top:40px;
+    width:430px;
+    border-radius: 20px;
+    border-bottom-style:double;
+    border-left-style:double;
+    border-right-style:double;
+    border-top-style:double;
+    border-bottom-width:10px;
+    border-left-width:10px;
+    border-right-width:10px;
+    border-top-width:10px;
+    border-color:floralwhite;
+    
+}
+
+#bio{
+    background: linear-gradient(#fad2c3 0%, #dcf6fc 100%);
+    height:400px;
+}
+#my videos{
+    background: linear-gradient(#fad2c3 0%, #dcf6fc 100%);
+}
+#work{
+    background: linear-gradient(#fad2c3 0%, #dcf6fc 100%);
+    height:2000px;
+}
+
+#articles{
+    background: linear-gradient(#fad2c3 0%, #dcf6fc 100%);
+    height:200px;
+}
